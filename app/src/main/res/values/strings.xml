@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">OnRoadSavior</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtAppName">OnRoad Savior</string>
+    <string name="txtTagLine">Your Trusted Roadside Partner</string>
+    <string name="UserName">User Name</string>
+    <string name="BreakDownTypeLabel">Break Down Type</string>
+    <string name="CreatedDateLabel">Created Date</string>
+    <string name="LocationLabel">Location</string>
+    <string name="BtnAcceptRequest">Accept</string>
+    <string name="BtnRejectRequest">Reject</string>
+    <string name="TextDescription">Description</string>
+    <string name="PhoneNoLabel">PhoneNo</string>
+    <string name="AcceptRequest">Accept</string>
+    <string name="txtPromtUserType">Choose user type</string>
+    <string name="txtPromtServiceType">Choose service type</string>
+    <string-array name="user_types">
+        <item>Service Requester</item>
+        <item>Service Provider</item>
+    </string-array>
+    <string-array name="service_types">
+        <item>Tow</item>
+        <item>Lockout</item>
+        <item>Fuel Delivery</item>
+        <item>Tire Change</item>
+        <item>Jump Start</item>
+    </string-array>
+    <string name="textViewTitleUserHome">How Can We Help You?</string>
+    <string name="imgUserHomeContentDesc">User Home Image</string>
+    <string name="textViewCurrentLocation">Current Location</string>
+    <string name="buttonGetLocation">Get Current Location</string>
+    <string name="txtUploadImage">Upload Image</string>
+    <string name="btnNextCurrentLocation">Next</string>
+    <string name="txtEmergency">Emergency</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="buttonSumbut">Sumbit</string>
+    <string name="textBreakdownDescription">Description</string>
+    <string name="btnNext">Next</string>
+    <string name="OK">OK</string>
+    <string name="channel_name">Your Channel Name</string>
+    <string name="channel_description">Your Channel Description</string>
+    <string name="lblSearchProvider">Search</string>
+    <string name="hintSearchProvider">Search provider by city</string>
+</resources>

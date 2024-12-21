@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726940670997",
+    "project_id": "w24-3175-g7-onroadsavior",
+    "storage_bucket": "w24-3175-g7-onroadsavior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726940670997:android:c509ca05d2de13c858c21c",
+        "android_client_info": {
+          "package_name": "com.example.w24_3175_g7_onroadsavior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKS_kwYgqN9_zbOhiV-gRd53cHl74Pwco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
